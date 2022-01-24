@@ -2,7 +2,7 @@
 - 👀 I’m interested in artificial intelligence
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - aadyajain2002@gmail.com
+- 📫 How to reach me - jain.644@osu.edu
 
 <!---
 aj-aadyajain/aj-aadyajain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
